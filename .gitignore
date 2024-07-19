@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+backend/.env
+backend/node_modules
+=======
+backend/api/.env
+backend/api/node_modules
+>>>>>>> c916af2 (feat: vercel deployment)
